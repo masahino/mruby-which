@@ -13,7 +13,7 @@ end
 ```
 ## example
 ```ruby
-Which.hi
+Which.which('ls')
 #=> "/bin/ls"
 
 ```
