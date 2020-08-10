@@ -1,0 +1,7 @@
+name: mruby-which
+description: Which class
+author: Masayuki Hino
+website: https://github.com/masahino/mruby-which
+protocol: git
+repository: https://github.com/masahino/mruby-which.git
+license: MIT
