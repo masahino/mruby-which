@@ -13,7 +13,8 @@ class Which
           if fs.executable?
             return exe
           end
-        rescue RuntimeError
+#        rescue RuntimeError
+        rescue
         end
       end
     end
